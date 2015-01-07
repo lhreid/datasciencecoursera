@@ -1,4 +1,4 @@
 # datasciencecoursera
 
 README.md version 1
-LH Reid
+LH Reid 2014.01.07
